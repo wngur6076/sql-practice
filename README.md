@@ -5,4 +5,4 @@
 
 ## ⚙️ 문제풀기
 - [x] [프로그래머스](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)
-- [] [HackerRank](https://www.hackerrank.com/domains/sql)
+- [ ] [HackerRank](https://www.hackerrank.com/domains/sql)
