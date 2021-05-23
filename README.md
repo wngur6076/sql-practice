@@ -2,7 +2,7 @@
 
 ## ⚙️ 진행현황
 <p align="center">
-    <img width="45%" src="https://user-images.githubusercontent.com/71273875/118836658-0a112880-b8ff-11eb-94fb-c63c0f3c37e9.png"> 
+    <img width="45%" src="https://user-images.githubusercontent.com/71273875/119263825-92ebd500-bc1b-11eb-9135-f9ff2a9379f9.png"> 
     <img width="45%" src="https://user-images.githubusercontent.com/71273875/118836667-0bdaec00-b8ff-11eb-8c27-271d8ad869ba.png">                         
 </p>
 
